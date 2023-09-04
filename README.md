@@ -1,7 +1,7 @@
 ## 👋 Hi there!!! 👋
 
 My name is Daniel Fernández
-- I'm a geek 💾
+- Geek 💾
 - I work as a QA Engineer ✅
 - In my free time I love to learn new programming languages. I've worked with Python, C, C#, C++ and Ruby 💻
 - I'm currently learning advanced Python concepts 🐍
